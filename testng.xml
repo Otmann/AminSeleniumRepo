@@ -1,0 +1,32 @@
+
+
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Yahoo">
+
+	<test name="Yahooo mail test">
+
+		<classes>
+			<class name="testpac.YahooTest">
+			</class>
+		</classes>
+	</test>
+
+	<test name="Yahooo news test">
+		<classes>
+			<class name="testpac.YahooNewsTest"></class>
+		</classes>
+	</test>
+
+
+	<test name="Yahooo Register test">
+		<classes>
+			<class name="testpac.YahooRegistrationTest"></class>
+		</classes>
+	</test>
+
+
+	<!-- Default test -->
+</suite> <!-- Default suite -->
+
+
