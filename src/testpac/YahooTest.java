@@ -28,7 +28,7 @@ public class YahooTest {
   public void testRecievEmail() {
 	  
 	  System.out.println("test recieving  Email");
-	  System.out.println("test recieving  Email 31.07.2014 to push test!!");
+	  System.out.println("test recieving  Email 31.07.2014 Amin war dabei!!");
   }
   
   @Test
